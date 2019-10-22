@@ -5,3 +5,9 @@ body {
   font-weight: bold;
   text-decoration: underline;
 }
+.nwe p {
+  border: 2px dotted navy;
+  margin: 10px;
+  padding: 10px;
+  color: black;
+} 

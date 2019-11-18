@@ -18,7 +18,6 @@ body {
   padding:          15px;
   vertical-align: top;
   width: 420px;
-  float: left;
 }
 
 #sidebar {
@@ -62,15 +61,6 @@ a:visited {
   border-bottom:    thin dotted #675c47;
 }
 
-.allcontent {
-  width:            800px;
-  padding-top:      5px;
-  padding-bottom:   5px;
-  background-color: #675c47;
-  margin-left:      auto;
-  margin-right:     auto;
-}
-
 div#tableContainer {
   display: table;
   border-spacing: 10px;
@@ -78,4 +68,11 @@ div#tableContainer {
 
 div#tableRow {
   display: table-row;
+}
+
+#drinks {
+  display: table-cell;
+  background-color: #efe5d0;
+  padding: 15px;
+  vertical-align: top;
 }

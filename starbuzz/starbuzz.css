@@ -17,7 +17,6 @@ body {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-  width: 420px;
 }
 
 #sidebar {
@@ -26,6 +25,7 @@ body {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
+  width: 280px;
 }
 
 #footer {
@@ -75,4 +75,41 @@ div#tableRow {
   background-color: #efe5d0;
   padding: 15px;
   vertical-align: top;
+}
+
+#login {
+  float: right;
+}
+
+#award {
+  position: absolute;
+  top: 30px;
+  left: 500px;
+}
+
+#coupon {
+  position: fixed;
+  top: 350px;
+  left: -90px;
+}
+
+#coupon a,img{
+  border: none;
+}
+
+#coupon:hover {
+  position: fixed;
+  top: 350px;
+  left:-220px;
+  animation: 2s zz linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes zz {
+  from{left: -220px;}
+  10%{left: -200px;}
+  20%{left: -180px;}
+  30%{left: -160px;}
+  50%{left: -120px;}
+  to{left:-20px;}
 }

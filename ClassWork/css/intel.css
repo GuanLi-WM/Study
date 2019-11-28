@@ -1,0 +1,140 @@
+.headerend button {
+    display: inline-block;
+    color: #fff;
+    fill: currentColor;
+    background-color: #3cb46e;
+    height: 30px;
+    width: 80px;
+    border: #3cb46e;
+    border-radius: 5px;
+
+}
+
+.searly {
+  height: 40px;
+  border-radius: 24px;
+  width: 500px;
+  background-color: #eee;
+  font-size: 14px;
+  border: 1px solid transparent;
+  border-color: gray;
+}
+
+.searly input {
+  border: none;
+  background-color: #eee;
+  font-size: 15px;
+  width: 300px;
+}
+
+.ulli ul li{
+  list-style-type: none;
+}
+
+.leftstart {
+  float: left;
+  height: 40px;
+}
+
+.spano {
+  display: inline-block;
+  position: relative;
+  bottom: 25px;
+}
+
+.spanp {
+  display: inline-block;
+  position: relative;
+  left: 42px;
+  bottom: 25px;
+}
+
+body { 
+  background-color: white;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  margin:           0px;
+}
+
+.spano a {
+  font-weight: 800;
+}
+
+.searly {
+  display: inline-block;
+  position: relative;
+  left: 60px;
+  bottom: 45px;
+}
+
+.searly img {
+  position: relative;
+  top: 11px;
+  left: 10px;
+}
+
+.searly input {
+  position: relative;
+  left: 13px;
+  top: 7px;
+}
+
+.rightend ul li{
+  display: inline-block;
+}
+
+.rightend {
+  position: relative;
+  left: 700px;
+  bottom: 95px;
+}
+
+.ulli ul li{
+  margin-right: 20px;
+  font-size: 20px;
+  color: gray;
+}
+
+.anniu button{
+  background: white;
+  color: gray;
+  border: 1px solid transparent;
+  border-color: gray;
+  border-radius: 5px;
+  height: 30px;
+  width: 130px;
+  position: relative;
+  left: 300px;
+  bottom: 38px;
+  margin-left: 30px;
+}
+
+.headerend {
+  position: relative;
+  bottom: 65px;
+  left: 600px;
+}
+
+.headerend a {
+  font-size: 18px;
+  margin-right: 20px;
+  color: gray;
+}
+
+.headerend button {
+  margin-left: 50px;
+}
+
+.kaitou {
+  margin: 15px;
+  height: 70px;
+}
+
+header {
+  height: 75px;
+}
+
+.daohang table tr th {
+  font-weight: 250;
+  padding-right: 25px;
+  color: grey;
+}

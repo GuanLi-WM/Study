@@ -11,13 +11,12 @@
 }
 
 .searly {
-  height: 40px;
+  height: 38px;
   border-radius: 24px;
-  width: 500px;
+  width: 700px;
   background-color: #eee;
   font-size: 14px;
   border: 1px solid transparent;
-  border-color: gray;
 }
 
 .searly input {
@@ -51,8 +50,9 @@
 
 body { 
   background-color: white;
-  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-family: Helvetica Helvetica,Arial,sans-serif;
   margin:           0px;
+  overflow-x: hidden;
 }
 
 .spano a {
@@ -84,13 +84,13 @@ body {
 
 .rightend {
   position: relative;
-  left: 700px;
-  bottom: 95px;
+  left: 900px;
+  bottom: 90px;
 }
 
 .ulli ul li{
   margin-right: 20px;
-  font-size: 20px;
+  font-size: 15px;
   color: gray;
 }
 
@@ -103,7 +103,7 @@ body {
   height: 30px;
   width: 130px;
   position: relative;
-  left: 300px;
+  left: 250px;
   bottom: 38px;
   margin-left: 30px;
 }
@@ -111,12 +111,12 @@ body {
 .headerend {
   position: relative;
   bottom: 65px;
-  left: 600px;
+  left: 450px;
 }
 
 .headerend a {
-  font-size: 18px;
-  margin-right: 20px;
+  font-size: 15px;
+  margin-right: 10px;
   color: gray;
 }
 
@@ -135,6 +135,100 @@ header {
 
 .daohang table tr th {
   font-weight: 250;
-  padding-right: 25px;
+  padding-right: 31px;
   color: grey;
+  font-size: 14.5px;
+}
+
+.unmimg{
+  width: 100%;
+}
+
+.black {
+  padding-left: 15px;
+}
+
+.daohang {
+  padding-bottom: 15px;
+}
+
+.xxxx {
+  position: relative;
+  bottom: 500px;
+  left: 20%;
+  
+}
+
+.xxx {
+  color: white;
+  font-size: 46px;
+  line-height: 1.2
+}
+
+.xxxx span {
+  display: block;
+  color: white;
+  position: relative;
+  bottom: 15px;
+}
+
+.searu input{
+  border: none;
+  background-color: #eee;
+  font-size: 15px;
+  width: 600px;
+  position: relative;
+  top: 12px;
+}
+
+.searu {
+  height: 50px;
+  border-radius: 24px;
+  width: 800px;
+  background-color: #eee;
+  font-size: 14px;
+  border-radius: 10px;
+}
+
+.searu img{
+  position: relative;
+  top: 15px;
+  margin-left: 10px;
+}
+
+.aer {
+  color: white;
+  position: relative;
+  top: 40px;
+}
+
+.ends {
+  position: relative;
+  top: 280px;
+  right:295px;
+}
+
+.ends a {
+  color: white;
+}
+
+.endss {
+  position: relative;
+  top: 265px;
+  left: 320px;
+}
+
+.endsx {
+  color: gray;
+}
+
+.endsxs {
+  color:gray;
+}
+
+.ssx {
+  position: relative;
+  top: 248px;
+  left: 960px;
+  color: gray;
 }

@@ -232,3 +232,36 @@ header {
   left: 960px;
   color: gray;
 }
+
+.first,.second,.thirst {
+  display: inline-block;
+  margin: 10px;
+}
+
+.imgss img {
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.first img {
+  display: block;
+  position: relative;
+  bottom: 395px;
+}
+
+.second img {
+  display: block;
+  position: relative;
+  bottom: 360px;
+}
+
+.thirst img {
+  display: block;
+}
+
+.imgss {
+  text-align: center;
+  position: relative;
+  bottom: 150px;
+}
+

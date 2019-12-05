@@ -141,7 +141,7 @@ header {
 }
 
 .unmimg{
-  width: 100%;
+  width: 100%
 }
 
 .black {
@@ -265,3 +265,14 @@ header {
   bottom: 150px;
 }
 
+.dongtai button {
+  border-radius: 5px;
+  border:none
+}
+
+.collect {
+  font-size: 15px;
+  color: gray;
+  position: relative;
+  bottom: 5px;
+}

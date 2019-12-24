@@ -1,0 +1,19 @@
+.imgss img {
+  width: 400px;
+  display:block;
+  padding-bottom: 15px;
+}
+
+.imgss {
+  text-align: center;
+}
+
+.imgss .first,.second,.thirst {
+  display: inline-block;
+  padding-left: 15px;
+}
+
+.first,.second {
+  position: relative;
+  bottom: 395px;
+}
